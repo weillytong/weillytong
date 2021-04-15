@@ -1,11 +1,16 @@
-# 👋 Weilly Tong here! 
+# Hi there! I'm Weilly Tong 👋 
 
 ### About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+:computer: Hack Reactor Software Engineering Immersive and :bear: UCLA graduate!
 
-### Technologies
+Former strategy management consultant turned software engineer! I'm passionate about bridging business strategy with technology to create robust products.
+
+
+- :telescope: Looking for front-end, full-stack, and product management opportunities! 
+- :round_pushpin: Based in Los Angeles, CA (Open to Relocation)
+- :smile: Interests: Backpacking, Go-Pro, Surfing, Snowboarding, Basketball, Chicago Sports Teams, Meditation, Settlers of Catan
+
+### Technologies & Tools
 
 
 
