@@ -1,7 +1,11 @@
 # Hi there 👋, Weilly Tong here! 
 
-### About me
+### About Me
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 💬 Ask me about ...
 
+### Technologies
 
 
 
