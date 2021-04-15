@@ -1,10 +1,11 @@
-### Hi there 👋, Weilly Tong here! 
+# Hi there 👋, Weilly Tong here! 
+
+### About me
 
 
 
 
-
-### Connection ###
+### Let's Connect! ###
 <img height="22" src="https://img.shields.io/badge/Email-weillydtong@gmail.com-blue?endpoint&style=social&logo=minutemailer" > &nbsp; <img height="22" src="https://img.shields.io/badge/LinkedIn-weillytong-blue?endpoint&style=social&logo=linkedin&link=https://www.linkedin.com/in/weilly-tong/&link=https://www.linkedin.com/in/weilly-tong/" >
 <!-------
 
