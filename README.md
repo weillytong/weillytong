@@ -1,4 +1,4 @@
-# Hi there 👋, Weilly Tong here! 
+# 👋 Weilly Tong here! 
 
 ### About Me
 - 🔭 I’m currently working on ...
