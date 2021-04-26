@@ -8,7 +8,7 @@ Former strategy management consultant turned software engineer. I'm passionate a
 
 - :telescope: Looking for front-end, full-stack, and product management opportunities!
 - :round_pushpin: Based in Los Angeles, CA (Open to Relocation)
-- :smile: Interests: Backpacking, Go-Pro, Surfing, Snowboarding, Basketball, Chicago Sports Teams, Meditation, Settlers of Catan
+- :smile: Interests: Backpacking, Go-Pro, Surfing, Swimming, Snowboarding, Chicago Sports Teams, Meditation, Settlers of Catan
 
 ## Technologies & Tools
 __``` Front-End: ```__ &nbsp;
