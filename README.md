@@ -3,7 +3,7 @@
 ## About Me
 :computer: Hack Reactor Software Engineering Immersive and :bear: UCLA graduate!
 
-Former strategy management consultant turned software engineer. I'm passionate about bridging business strategy with technology to create robust products!
+Former strategy management consultant turned software engineer. I'm passionate about bridging business strategy with technology to create robust products.
 
 
 - :telescope: Looking for front-end, full-stack, and product management opportunities!
