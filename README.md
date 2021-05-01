@@ -6,7 +6,7 @@
 Former strategy management consultant turned software engineer. I'm passionate about bridging business strategy with technology to create robust products!
 
 
-- :telescope: Looking for front-end, full-stack, and product management opportunities!
+- :telescope: Looking for front-end, full-stack, and product analyst opportunities!
 - :round_pushpin: Based in Los Angeles, CA (Open to Relocation)
 - :smile: Interests: Backpacking, Go-Pro, Surfing, Swimming, Snowboarding, Chicago Sports Teams, Meditation, Settlers of Catan
 
