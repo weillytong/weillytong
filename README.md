@@ -5,7 +5,6 @@
 
 Former management consultant that's passionate about bridging business strategy with technology to create robust products!
 
-
 - :telescope: Looking for product management, product analyst, and front-end opportunities
 - :round_pushpin: Based in Los Angeles, CA (Open to Relocation)
 - :smile: Interests: Backpacking, Go-Pro, Surfing, Swimming, Snowboarding, Chicago Sports Teams, Meditation, Settlers of Catan
