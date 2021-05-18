@@ -1,7 +1,7 @@
 # Hi there! I'm Weilly Tong 👋
 
 ## About Me
-:computer: Hack Reactor Software Engineering Immersive and :bear: UCLA graduate!
+:computer: Hack Reactor Software Engineering Immersive and :bear: UCLA graduate
 
 Former management consultant that's passionate about bridging business strategy with technology to create robust products.
 
